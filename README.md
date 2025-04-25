@@ -4,10 +4,10 @@ In this project, we will store real-time data in AWS S3, transfer it to Snowflak
 ##Architecture
 ![Alt text](https://github.com/Nayak009/Data_streaming_using_snowflake_aws_apache_nifi/blob/main/Datawarehouse_snowflake.JPG)
 
-##Technology Used
-*Programming Language - Python
-*Apache Nifi
-*Amazon Cloud
+## Technology Used
+* Programming Language - Python
+* Apache Nifi
+* Amazon Cloud
   * Amazon EC2
   * Amazon S3
 * Snowflake
